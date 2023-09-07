@@ -1,0 +1,1 @@
+Object detection and tracking using OpenCV and Numpy libriares only. I find the shape of the object and count its squares and then look for a matching color, and if my objects fit those parameters, that's what we're looking for
